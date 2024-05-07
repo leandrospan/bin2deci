@@ -1,0 +1,7 @@
+{
+  "name": "Bin2Dec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
